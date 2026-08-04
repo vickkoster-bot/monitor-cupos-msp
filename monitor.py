@@ -78,22 +78,43 @@ def save_state(state: dict) -> None:
 def send_telegram(message: str) -> None:
     token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
     chat_id = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
+
     if not token or not chat_id:
         raise RuntimeError(
             "Faltan TELEGRAM_BOT_TOKEN o TELEGRAM_CHAT_ID en los secretos de GitHub."
         )
 
-    response = requests.post(
-        f"https://api.telegram.org/bot{token}/sendMessage",
-        json={
-            "chat_id": chat_id,
-            "text": message,
-            "disable_web_page_preview": False,
-        },
-        timeout=30,
-    )
-    response.raise_for_status()
+    # Telegram admite como máximo 4096 caracteres por mensaje.
+    max_length = 3500
+    parts = []
 
+    while message:
+        if len(message) <= max_length:
+            parts.append(message)
+            break
+
+        split_at = message.rfind("\n\n", 0, max_length)
+        if split_at == -1:
+            split_at = max_length
+
+        parts.append(message[:split_at])
+        message = message[split_at:].lstrip()
+
+    for part in parts:
+        response = requests.post(
+            f"https://api.telegram.org/bot{token}/sendMessage",
+            json={
+                "chat_id": chat_id,
+                "text": part,
+                "disable_web_page_preview": True,
+            },
+            timeout=30,
+        )
+
+        if not response.ok:
+            raise RuntimeError(
+                f"Telegram devolvió {response.status_code}: {response.text}"
+            )
 
 def test_telegram() -> None:
     send_telegram(
