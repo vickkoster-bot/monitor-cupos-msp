@@ -1,4 +1,197 @@
 {
-  "seen": {},
-  "last_page_fingerprint": null
+  "last_page_fingerprint": "12b5f5c647779f1f269215a12f0ef5b8be741e23e9afd4a5e6642363dbe45944",
+  "seen": {
+    "06d37e9a7e22937712571f2c": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "COMEPA - Setembrino Pereda 924 entre Gral. Leandro Gomez y 18 de Julio Paysandú - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Viernes 28 de agosto - 10:30 h"
+    },
+    "1b3a857d9f95e92a48abeaed": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "Centro Auxiliar Guichón - Pedro Luis Guichón s/n entre Avda Artigas y Libertador Juan A. Lavalleja Guichón - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Viernes 21 de agosto - 16:30 h"
+    },
+    "1fa0532bd5b5bfe2b936d0ba": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "Policlínica Quebracho - Dr. Martini s/n entre Sarandí y 8 de Octubre Quebracho - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Lunes 17 de agosto - 14:30 h"
+    },
+    "267552f73ec37741ce190695": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "Centro Auxiliar Guichón - Pedro Luis Guichón s/n entre Avda Artigas y Libertador Juan A. Lavalleja Guichón - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Viernes 21 de agosto - 15:30 h"
+    },
+    "2ef5c55b31269f9f4045b8e7": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "C.P. Paysandú - Montecaseros 520 esq. Artigas (entrando por calle Vizconde Maua) Paysandú - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Jueves 27 de agosto - 10:30 h"
+    },
+    "34cf0a2f5791a65f49269661": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "Centro de Salud Paysandú - Montecaseros 520 esq Artigas (entrando por calle vizconde maua) Paysandú - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Miércoles 26 de agosto - 14:30 h"
+    },
+    "350af396a55accc3049a2a6a": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "Centro de Salud Paysandú - Montecaseros 520 esq Artigas (entrando por calle vizconde maua) Paysandú - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Miércoles 26 de agosto - 13:30 h"
+    },
+    "5a34e3ce9fd22d434ab60d65": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "Policlínica Barrio Artigas - Grito De Asencio s/n entre Cnel. Lucas Piriz y Larrañaga Paysandú - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Jueves 20 de agosto - 08:00 h"
+    },
+    "66dc41007efc76ce01b9a1d0": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "Laboratorio CEB - Gral. Leandro Gámez 1117 entre Herrera y 19 de Abril Paysandú - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Sábado 22 de agosto - 08:00 h"
+    },
+    "73879ff35f4fea1fde2b0728": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "Policlínica Quebracho - Dr. Martini s/n entre Sarandí y 8 de Octubre Quebracho - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Jueves 20 de agosto - 13:30 h"
+    },
+    "784e3ba6bbea2e8ec410ad6f": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "Centro Auxiliar Guichón - Pedro Luis Guichón s/n entre Avda Artigas y Libertador Juan A. Lavalleja Guichón - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Viernes 21 de agosto - 14:30 h"
+    },
+    "7babd0ccc29565eae7bb4a01": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "Policlínica Barrio Artigas - Grito De Asencio s/n entre Cnel. Lucas Piriz y Larrañaga Paysandú - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Miércoles 19 de agosto - 12:00 h"
+    },
+    "808879c4d461364dc81a61ba": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "Laboratorio CEB - Gral. Leandro Gámez 1117 entre Herrera y 19 de Abril Paysandú - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Sábado 22 de agosto - 09:00 h"
+    },
+    "88e6e8053b94e02ae75280a5": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "CAMY - 25 de agosto 3450 entre Martiriné y Las piedras Young - Río Negro",
+      "region": "Oeste",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=2&e=52",
+      "when": "Viernes 28 de agosto - 10:00 h"
+    },
+    "8a6b6497707f40bc983dfffd": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "COMEPA - Setembrino Pereda 924 entre Gral. Leandro Gomez y 18 de Julio Paysandú - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Viernes 28 de agosto - 10:00 h"
+    },
+    "9463374a6545bc205c386f43": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "Policlínica Barrio Artigas - Grito De Asencio s/n entre Cnel. Lucas Piriz y Larrañaga Paysandú - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Jueves 20 de agosto - 08:30 h"
+    },
+    "9f22d9504e267e9ac9ad2399": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "C.P. Paysandú - Montecaseros 520 esq. Artigas (entrando por calle Vizconde Maua) Paysandú - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Lunes 31 de agosto - 08:30 h"
+    },
+    "a31e6fbaaa09b203ce609c15": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "COMEPA - Setembrino Pereda 924 entre Gral. Leandro Gomez y 18 de Julio Paysandú - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Viernes 28 de agosto - 11:00 h"
+    },
+    "a61ad1cce4d26c3529c7ecd2": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "CAMY - 25 de agosto 3450 entre Martiriné y Las piedras Young - Río Negro",
+      "region": "Oeste",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=2&e=52",
+      "when": "Viernes 28 de agosto - 11:00 h"
+    },
+    "b5c1ba791b8e29fb9491ccde": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "Policlínica Quebracho - Dr. Martini s/n entre Sarandí y 8 de Octubre Quebracho - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Jueves 20 de agosto - 13:00 h"
+    },
+    "ccef5609aba76575bd7807d1": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "Laboratorio CEB - Gral. Leandro Gámez 1117 entre Herrera y 19 de Abril Paysandú - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Sábado 22 de agosto - 08:30 h"
+    },
+    "e33960202e45487e9ae91be1": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "Centro de Salud Paysandú - Montecaseros 520 esq Artigas (entrando por calle vizconde maua) Paysandú - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Miércoles 26 de agosto - 14:00 h"
+    },
+    "eb55bb22ecc7ab427aa500d2": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "CAMY - 25 de agosto 3450 entre Martiriné y Las piedras Young - Río Negro",
+      "region": "Oeste",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=2&e=52",
+      "when": "Jueves 27 de agosto - 12:00 h"
+    },
+    "f896f3ea31609b92175418dd": {
+      "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
+      "office": "C.P. Paysandú - Montecaseros 520 esq. Artigas (entrando por calle Vizconde Maua) Paysandú - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Lunes 31 de agosto - 09:30 h"
+    }
+  }
 }
