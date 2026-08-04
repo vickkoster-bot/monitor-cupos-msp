@@ -226,22 +226,55 @@ def monitor_region(page: Page, region: str, url: str) -> list[Slot]:
     return list(unique.values())
 
 
-def format_alert(slots: Iterable[Slot]) -> str:
+def format_summary(slots: Iterable[Slot]) -> str:
     slots = list(slots)
-    lines = ["🚨 CUPOS NUEVOS — VACUNA MENINGOCOCO", ""]
-    for slot in slots[:20]:
+    counts = {region: 0 for region in REGIONS}
+
+    for slot in slots:
+        counts[slot.region] = counts.get(slot.region, 0) + 1
+
+    lines = [
+        "🚨 MSP — Nuevos cupos detectados",
+        "",
+        f"Total: {len(slots)} horarios nuevos",
+        "",
+    ]
+
+    for region in ("Sur", "Este", "Oeste", "Norte"):
+        count = counts.get(region, 0)
+        if count:
+            lines.append(f"📍 {region}: {count} horario{'s' if count != 1 else ''}")
+        else:
+            lines.append(f"⚪ {region}: sin cupos nuevos")
+
+    return "\n".join(lines)
+
+
+def format_region_alert(region: str, slots: Iterable[Slot]) -> str:
+    slots = list(slots)
+
+    lines = [
+        f"📍 REGIÓN {region.upper()}",
+        "",
+    ]
+
+    for slot in slots:
         lines.extend(
             [
-                f"Región: {slot.region}",
                 f"Vacunatorio: {slot.office}",
                 f"Turno: {slot.when}",
-                f"Agenda: {slot.url}",
                 "",
             ]
         )
-    if len(slots) > 20:
-        lines.append(f"Hay {len(slots) - 20} turnos adicionales. Abrí la agenda para verlos.")
-    lines.append("Reservá de inmediato: la disponibilidad puede cambiar.")
+
+    lines.extend(
+        [
+            f"Abrir agenda: {REGIONS[region]}",
+            "",
+            "Reservá de inmediato: la disponibilidad puede cambiar.",
+        ]
+    )
+
     return "\n".join(lines)
 
 
@@ -326,11 +359,22 @@ def main() -> int:
     save_state(state)
 
     if new_slots:
-        logging.info("Se detectaron %d cupos nuevos.", len(new_slots))
-        send_telegram(format_alert(new_slots))
-    else:
-        logging.info("No se detectaron cupos nuevos.")
+    logging.info("Se detectaron %d cupos nuevos.", len(new_slots))
 
+    # Primero manda un resumen general.
+    send_telegram(format_summary(new_slots))
+
+    # Después manda un mensaje separado por cada región con cupos.
+    for region in ("Sur", "Este", "Oeste", "Norte"):
+        region_slots = [
+            slot for slot in new_slots
+            if slot.region == region
+        ]
+
+        if region_slots:
+            send_telegram(format_region_alert(region, region_slots))
+else:
+    logging.info("No se detectaron cupos nuevos.")
     return 0
 
 
