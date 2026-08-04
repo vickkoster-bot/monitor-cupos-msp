@@ -358,16 +358,15 @@ def main() -> int:
 
     save_state(state)
 
-    if new_slots:
+if new_slots:
     logging.info("Se detectaron %d cupos nuevos.", len(new_slots))
 
-    # Primero manda un resumen general.
     send_telegram(format_summary(new_slots))
 
-    # Después manda un mensaje separado por cada región con cupos.
     for region in ("Sur", "Este", "Oeste", "Norte"):
         region_slots = [
-            slot for slot in new_slots
+            slot
+            for slot in new_slots
             if slot.region == region
         ]
 
