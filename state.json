@@ -17,9 +17,17 @@
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
       "when": "Miércoles 12 de agosto - 07:00 h"
     },
+    "008a3eaca92f5854cb3302e9": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "COMERO San Luis - Calle 10 s/n Calle Principal San Luis - Rocha",
+      "region": "Este",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
+      "when": "Jueves 13 de agosto - 08:00 h"
+    },
     "00a739ec1006ecb67f07c4e8": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Centro de Salud Paysandú - Montecaseros 520 esq Artigas (entrando por calle vizconde maua) Paysandú - Paysandú",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -49,6 +57,14 @@
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=2&e=52",
       "when": "Viernes 14 de agosto - 09:30 h"
     },
+    "0c4222b874ba92d6049ea4e0": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "ASSE RAP Castillos - 19 de abril 1561 Castillos - Rocha",
+      "region": "Este",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
+      "when": "Jueves 13 de agosto - 07:00 h"
+    },
     "0e5c3f44fc3f05424977c2ed": {
       "first_seen_utc": "2026-08-04T23:13:29.668191+00:00",
       "last_seen_utc": "2026-08-04T23:25:28.928041+00:00",
@@ -67,7 +83,7 @@
     },
     "13c28931e02615846c5d7786": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Centro Auxiliar Guichón - Pedro Luis Guichón s/n entre Avda Artigas y Libertador Juan A. Lavalleja Guichón - Paysandú",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -80,6 +96,14 @@
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
       "when": "Lunes 24 de agosto - 13:30 h"
+    },
+    "1581b2173253c5ad491c3341": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "Policlínica ASSE B. Albisu - Ruta 31 km12 s/n entre Calle 1 y Calle 2 (zona rural) Zona Rural - Salto",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Lunes 10 de agosto - 09:00 h"
     },
     "17c38b10d596f2c7e1c179d6": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
@@ -113,6 +137,14 @@
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
       "when": "Lunes 17 de agosto - 14:30 h"
     },
+    "220cc189279993268f52058c": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "ASSE RAP Castillos - 19 de abril 1561 Castillos - Rocha",
+      "region": "Este",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
+      "when": "Viernes 14 de agosto - 07:00 h"
+    },
     "22ddf9c9f66412f88ab3ac28": {
       "first_seen_utc": "2026-08-05T14:07:12.569834+00:00",
       "last_seen_utc": "2026-08-05T14:07:12.569834+00:00",
@@ -120,6 +152,14 @@
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
       "when": "Viernes 21 de agosto - 14:00 h"
+    },
+    "24c9076df6c2060bca2ab205": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "CAMS Mercedes - 18 de Julio 383 esq. Rodo Mercedes - Soriano",
+      "region": "Oeste",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=2&e=52",
+      "when": "Jueves 20 de agosto - 09:30 h"
     },
     "25a47a9567295d52c8e88489": {
       "first_seen_utc": "2026-08-04T22:03:41.139906+00:00",
@@ -139,7 +179,7 @@
     },
     "2d9c41f78e63dfbe1e5430d2": {
       "first_seen_utc": "2026-08-05T14:07:12.569834+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Policlínica Barrio Artigas - Grito De Asencio s/n entre Cnel. Lucas Piriz y Larrañaga Paysandú - Paysandú",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -187,7 +227,7 @@
     },
     "3b52b7387c24dd21792d3ebf": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Centro Auxiliar Minas de Corrales - 12 de Octubre s/n entre 18 de Julio y 25 de Agosto Minas de Corrales - Rivera",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -203,11 +243,19 @@
     },
     "3ea50880d2a6b2372f023661": {
       "first_seen_utc": "2026-08-04T23:13:29.668191+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Policlínica Barrio Artigas - Grito De Asencio s/n entre Cnel. Lucas Piriz y Larrañaga Paysandú - Paysandú",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
       "when": "Jueves 20 de agosto - 09:30 h"
+    },
+    "3edd2985be489ad11fb33772": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "ASSE Punta del Diablo - Jose Percha y Calle 3 Punta del Diablo - Rocha",
+      "region": "Este",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
+      "when": "Jueves 13 de agosto - 08:00 h"
     },
     "4139b3a03124e85afa13f659": {
       "first_seen_utc": "2026-08-04T22:03:41.139906+00:00",
@@ -235,7 +283,7 @@
     },
     "49013a5c222e288c36c1abb7": {
       "first_seen_utc": "2026-08-05T14:07:12.569834+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Centro de Salud Paysandú - Montecaseros 520 esq Artigas (entrando por calle vizconde maua) Paysandú - Paysandú",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -243,7 +291,7 @@
     },
     "491956dda725eac04023fea1": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Policlínica ASSE B. Albisu - Ruta 31 km12 s/n entre Calle 1 y Calle 2 (zona rural) Zona Rural - Salto",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -259,7 +307,7 @@
     },
     "4c018eece8f551ed46097743": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Policlínica Quebracho - Dr. Martini s/n entre Sarandí y 8 de Octubre Quebracho - Paysandú",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -272,6 +320,14 @@
       "region": "Oeste",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=2&e=52",
       "when": "Viernes 14 de agosto - 07:30 h"
+    },
+    "4ed4b3dc778cc3ed4350d2a0": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "Centro de Primer Nivel de Atención Libertad - Artigas 626. Libertad. Centro de Primer Nivel de Atención Libertad Libertad - San José",
+      "region": "Oeste",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=2&e=52",
+      "when": "Jueves 20 de agosto - 09:30 h"
     },
     "4ee664330f32447c278e014d": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
@@ -323,7 +379,7 @@
     },
     "5c0f988a447c6872467a2888": {
       "first_seen_utc": "2026-08-05T08:02:59.506105+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Laboratorio CEB - Gral. Leandro Gámez 1117 entre Herrera y 19 de Abril Paysandú - Paysandú",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -339,7 +395,7 @@
     },
     "62153ee1cb7235a7d44ca691": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Centro Auxiliar Minas de Corrales - 12 de Octubre s/n entre 18 de Julio y 25 de Agosto Minas de Corrales - Rivera",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -369,13 +425,37 @@
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
       "when": "Jueves 20 de agosto - 11:00 h"
     },
+    "68ff4c70f9952003db659252": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "Policlínica ASSE La Pedrera - San Michel entre Calle 2 y 6, La Pedrera La Paloma - Rocha",
+      "region": "Este",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
+      "when": "Jueves 27 de agosto - 08:00 h"
+    },
+    "6ac0f7ae42d4c7582e9ec0d4": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "Policlínica ASSE Costa Azul - Calle Coronillas y De Mora, Costa Azul La Paloma - Rocha",
+      "region": "Este",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
+      "when": "Jueves 20 de agosto - 09:00 h"
+    },
     "6c17f1351c64891123aea6dc": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Centro Aux. San Gregorio de Polanco - Yamandu Gamba N 49 esq. Independencia (Centro de Salud) San Gregorio - Tacuarembó",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
       "when": "Martes 11 de agosto - 07:00 h"
+    },
+    "6ca78c48fbc5e3dfe19c7f01": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "ASSE RAP Rocha Lascano - E. Eudoxio Vivas 1401 y Ansina Lascano - Rocha",
+      "region": "Este",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
+      "when": "Lunes 10 de agosto - 08:00 h"
     },
     "6f09012108167cab2cad9a53": {
       "first_seen_utc": "2026-08-05T08:02:59.506105+00:00",
@@ -395,7 +475,7 @@
     },
     "7071f0af026096b7effce6ad": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Centro Auxiliar Minas de Corrales - 12 de Octubre s/n entre 18 de Julio y 25 de Agosto Minas de Corrales - Rivera",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -403,7 +483,7 @@
     },
     "7184bf1f1a326dc4a4ccea4e": {
       "first_seen_utc": "2026-08-05T14:07:12.569834+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Laboratorio CEB - Gral. Leandro Gámez 1117 entre Herrera y 19 de Abril Paysandú - Paysandú",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -416,6 +496,14 @@
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
       "when": "Jueves 20 de agosto - 13:30 h"
+    },
+    "73a8ee6bc9a745c642bf620b": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "CAMS Mercedes - 18 de Julio 383 esq. Rodo Mercedes - Soriano",
+      "region": "Oeste",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=2&e=52",
+      "when": "Viernes 21 de agosto - 07:30 h"
     },
     "75616dd92b4ba777d4591fff": {
       "first_seen_utc": "2026-08-04T19:40:43.778431+00:00",
@@ -432,6 +520,14 @@
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
       "when": "Viernes 28 de agosto - 15:00 h"
+    },
+    "761dd4643990befc2f4f37c4": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "Policlínica ASSE Costa Azul - Calle Coronillas y De Mora, Costa Azul La Paloma - Rocha",
+      "region": "Este",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
+      "when": "Jueves 20 de agosto - 08:00 h"
     },
     "762ba5343b4b51c643ed7ff8": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
@@ -473,6 +569,14 @@
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
       "when": "Miércoles 19 de agosto - 12:00 h"
     },
+    "7e35b6948fa1a2544adbc91a": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "COMERO San Luis - Calle 10 s/n Calle Principal San Luis - Rocha",
+      "region": "Este",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
+      "when": "Miércoles 12 de agosto - 10:00 h"
+    },
     "7fdc3992121310c4aff8ce85": {
       "first_seen_utc": "2026-08-05T14:07:12.569834+00:00",
       "last_seen_utc": "2026-08-05T14:07:12.569834+00:00",
@@ -507,7 +611,7 @@
     },
     "8638c103c7556a530c2c14c8": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Policlínica Quebracho - Dr. Martini s/n entre Sarandí y 8 de Octubre Quebracho - Paysandú",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -537,9 +641,25 @@
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
       "when": "Miércoles 12 de agosto - 08:00 h"
     },
+    "8f726f7523699cdda6ea7a70": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "Centro de Primer Nivel de Atención Libertad - Artigas 626. Libertad. Centro de Primer Nivel de Atención Libertad Libertad - San José",
+      "region": "Oeste",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=2&e=52",
+      "when": "Viernes 21 de agosto - 07:30 h"
+    },
+    "91225cd90d5d3247486ae414": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "ASSE RAP Rocha Lascano - E. Eudoxio Vivas 1401 y Ansina Lascano - Rocha",
+      "region": "Este",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
+      "when": "Jueves 13 de agosto - 08:00 h"
+    },
     "9140db5b41857d296e76513a": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "ASSE Punta del Diablo - Jose Percha y Calle 3 Punta del Diablo - Rocha",
       "region": "Este",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
@@ -577,6 +697,14 @@
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
       "when": "Lunes 31 de agosto - 10:30 h"
     },
+    "99b93ffd4e1fe9a570e11bf5": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "ASSE Punta del Diablo - Jose Percha y Calle 3 Punta del Diablo - Rocha",
+      "region": "Este",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
+      "when": "Lunes 10 de agosto - 08:00 h"
+    },
     "9b861f69562d4301cb2e7fb0": {
       "first_seen_utc": "2026-08-04T19:40:43.778431+00:00",
       "last_seen_utc": "2026-08-04T19:40:43.778431+00:00",
@@ -587,7 +715,7 @@
     },
     "9c0a719112ab4fcd497345a6": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Centro Aux. San Gregorio de Polanco - Yamandu Gamba N 49 esq. Independencia (Centro de Salud) San Gregorio - Tacuarembó",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -683,11 +811,19 @@
     },
     "aaeffc4b707195c704a08d65": {
       "first_seen_utc": "2026-08-05T14:07:12.569834+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Centro Auxiliar Guichón - Pedro Luis Guichón s/n entre Avda Artigas y Libertador Juan A. Lavalleja Guichón - Paysandú",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
       "when": "Lunes 31 de agosto - 13:30 h"
+    },
+    "accb8418fdc37e3b07ece084": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "Policlínica ASSE La Paloma - Calle Paloma, esq Aries, La paloma La Paloma - Rocha",
+      "region": "Este",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
+      "when": "Jueves 13 de agosto - 11:00 h"
     },
     "acd849cb7b87c135c64c1fac": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
@@ -707,7 +843,7 @@
     },
     "b20104b05f35eda84482dc70": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Policlínica Quebracho - Dr. Martini s/n entre Sarandí y 8 de Octubre Quebracho - Paysandú",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -715,7 +851,7 @@
     },
     "b2ee1e819add8a93adb4f176": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Policlínica ASSE La Paloma - Calle Paloma, esq Aries, La paloma La Paloma - Rocha",
       "region": "Este",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
@@ -739,7 +875,7 @@
     },
     "b9fbe502105100aea3e77617": {
       "first_seen_utc": "2026-08-04T22:03:41.139906+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Laboratorio CEB - Gral. Leandro Gámez 1117 entre Herrera y 19 de Abril Paysandú - Paysandú",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -747,11 +883,27 @@
     },
     "bab7eeb60bc08a0d8641036b": {
       "first_seen_utc": "2026-08-05T14:07:12.569834+00:00",
-      "last_seen_utc": "2026-08-05T14:07:12.569834+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Policlínica Barrio Artigas - Grito De Asencio s/n entre Cnel. Lucas Piriz y Larrañaga Paysandú - Paysandú",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
       "when": "Jueves 20 de agosto - 10:00 h"
+    },
+    "bc053186699162fd0a9d019f": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "Centro de Primer Nivel de Atención Libertad - Artigas 626. Libertad. Centro de Primer Nivel de Atención Libertad Libertad - San José",
+      "region": "Oeste",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=2&e=52",
+      "when": "Jueves 20 de agosto - 07:30 h"
+    },
+    "bd9451c9f1bf378750941ddc": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "CAMS Mercedes - 18 de Julio 383 esq. Rodo Mercedes - Soriano",
+      "region": "Oeste",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=2&e=52",
+      "when": "Jueves 20 de agosto - 07:30 h"
     },
     "bf57d16bb6c2a1665bec6904": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
@@ -760,6 +912,14 @@
       "region": "Este",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
       "when": "Martes 11 de agosto - 11:00 h"
+    },
+    "c00db91e2e55211de0a341d9": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "Policlínica ASSE Costa Azul - Calle Coronillas y De Mora, Costa Azul La Paloma - Rocha",
+      "region": "Este",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
+      "when": "Jueves 20 de agosto - 10:00 h"
     },
     "c38eae9ab849c9833e9066a7": {
       "first_seen_utc": "2026-08-04T19:40:43.778431+00:00",
@@ -779,7 +939,7 @@
     },
     "cc420964665301e5206964af": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Centro de Salud Paysandú - Montecaseros 520 esq Artigas (entrando por calle vizconde maua) Paysandú - Paysandú",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -795,7 +955,7 @@
     },
     "cdecbfaa3f044e0ca86cb17e": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Policlínica ASSE B. Albisu - Ruta 31 km12 s/n entre Calle 1 y Calle 2 (zona rural) Zona Rural - Salto",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -811,7 +971,7 @@
     },
     "d07cdc025a5609f7dacd77aa": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "ASSE RAP Rocha Lascano - E. Eudoxio Vivas 1401 y Ansina Lascano - Rocha",
       "region": "Este",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
@@ -824,6 +984,14 @@
       "region": "Este",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
       "when": "Jueves 13 de agosto - 10:00 h"
+    },
+    "d6e5eb84bd564c6cf8fc2463": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "Policlínica ASSE Cebollati - San Miguel s/n Cebollati - Rocha",
+      "region": "Este",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
+      "when": "Jueves 13 de agosto - 07:00 h"
     },
     "d984359973c432e3f316fd47": {
       "first_seen_utc": "2026-08-05T08:02:59.506105+00:00",
@@ -843,15 +1011,23 @@
     },
     "d9da7fcd715e1373fb89ccf1": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Policlínica ASSE La Paloma - Calle Paloma, esq Aries, La paloma La Paloma - Rocha",
       "region": "Este",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
       "when": "Jueves 13 de agosto - 08:00 h"
     },
+    "ddc46a36d4b1e2c03d1cc6b8": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "Policlínica ASSE Cebollati - San Miguel s/n Cebollati - Rocha",
+      "region": "Este",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
+      "when": "Miércoles 12 de agosto - 11:00 h"
+    },
     "de4b58aeb31c868800e44d9e": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Centro Aux. San Gregorio de Polanco - Yamandu Gamba N 49 esq. Independencia (Centro de Salud) San Gregorio - Tacuarembó",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -880,6 +1056,14 @@
       "region": "Sur",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=4&e=52",
       "when": "Lunes 31 de agosto - 09:15 h"
+    },
+    "e4bf2652a672ccc7f027dccc": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "ASSE RAP Castillos - 19 de abril 1561 Castillos - Rocha",
+      "region": "Este",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
+      "when": "Miércoles 12 de agosto - 11:00 h"
     },
     "e8a622f642b0c302d84353ed": {
       "first_seen_utc": "2026-08-04T23:13:29.668191+00:00",
@@ -913,6 +1097,14 @@
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=4&e=52",
       "when": "Lunes 31 de agosto - 08:30 h"
     },
+    "ee3edb6934ddda3d5a726a97": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "Policlínica ASSE La Pedrera - San Michel entre Calle 2 y 6, La Pedrera La Paloma - Rocha",
+      "region": "Este",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
+      "when": "Jueves 27 de agosto - 09:00 h"
+    },
     "eecdb27461b2c595f6803dbf": {
       "first_seen_utc": "2026-08-04T19:40:43.778431+00:00",
       "last_seen_utc": "2026-08-04T19:40:43.778431+00:00",
@@ -931,11 +1123,19 @@
     },
     "f5405335872c645731e13221": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
-      "last_seen_utc": "2026-08-05T20:46:06.739042+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
       "office": "Centro Auxiliar Guichón - Pedro Luis Guichón s/n entre Avda Artigas y Libertador Juan A. Lavalleja Guichón - Paysandú",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
       "when": "Viernes 28 de agosto - 14:30 h"
+    },
+    "f5c2f74bcfdf6c7c7e6c370c": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "Policlínica ASSE Cebollati - San Miguel s/n Cebollati - Rocha",
+      "region": "Este",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
+      "when": "Viernes 14 de agosto - 07:00 h"
     },
     "f896f3ea31609b92175418dd": {
       "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
@@ -944,6 +1144,22 @@
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
       "when": "Lunes 31 de agosto - 09:30 h"
+    },
+    "fc3cce4f3e55063d4ac52107": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "COMERO San Luis - Calle 10 s/n Calle Principal San Luis - Rocha",
+      "region": "Este",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
+      "when": "Lunes 10 de agosto - 08:00 h"
+    },
+    "fd9b9c95f549187eddeaa306": {
+      "first_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
+      "office": "Policlínica ASSE La Pedrera - San Michel entre Calle 2 y 6, La Pedrera La Paloma - Rocha",
+      "region": "Este",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
+      "when": "Jueves 27 de agosto - 10:00 h"
     }
   }
 }
