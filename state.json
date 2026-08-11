@@ -201,6 +201,14 @@
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=2&e=52",
       "when": "Martes 18 de agosto - 09:45 h"
     },
+    "06bb0cea84863d753ae8373e": {
+      "first_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "office": "Centro de Salud ASSE Dr. Jose Royol - Av. Libano s/n entre Taboba y Carambula Rivera - Rivera",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Miércoles 19 de agosto - 13:30 h"
+    },
     "06d37e9a7e22937712571f2c": {
       "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
       "last_seen_utc": "2026-08-04T19:40:43.778431+00:00",
@@ -617,6 +625,14 @@
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=2&e=52",
       "when": "Viernes 28 de agosto - 13:00 h"
     },
+    "1a9177564899842f02bee5e3": {
+      "first_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "office": "UBA 3 - ASSE - Lorenzo Latorre s/n Salto - Salto",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Miércoles 19 de agosto - 14:30 h"
+    },
     "1b3a857d9f95e92a48abeaed": {
       "first_seen_utc": "2026-08-04T19:00:36.045946+00:00",
       "last_seen_utc": "2026-08-04T19:00:36.045946+00:00",
@@ -723,7 +739,7 @@
     },
     "20ef790dd603796d4485ff80": {
       "first_seen_utc": "2026-08-11T04:11:52.439555+00:00",
-      "last_seen_utc": "2026-08-11T11:14:36.507828+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
       "office": "COMTA Paso de los Toros - Br. Artigas 357 entre Artemio Correa y Atanasio Sierra Paso de los Toros - Tacuarembó",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -747,7 +763,7 @@
     },
     "2263e256de46fa5c92b66933": {
       "first_seen_utc": "2026-08-11T04:11:52.439555+00:00",
-      "last_seen_utc": "2026-08-11T11:14:36.507828+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
       "office": "Sub C.P. Sarandí Grande - Pasteur 1052 Esq. Treinta y Tres y Faustino Harrison Sarandí Grande - Florida",
       "region": "Oeste",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=2&e=52",
@@ -787,7 +803,7 @@
     },
     "24837149eb6e1a5b275aaa7e": {
       "first_seen_utc": "2026-08-11T04:11:52.439555+00:00",
-      "last_seen_utc": "2026-08-11T11:14:36.507828+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
       "office": "Sub C.P. Sarandí Grande - Pasteur 1052 Esq. Treinta y Tres y Faustino Harrison Sarandí Grande - Florida",
       "region": "Oeste",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=2&e=52",
@@ -1105,6 +1121,14 @@
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
       "when": "Viernes 14 de agosto - 10:00 h"
     },
+    "31d4bbe034d2ff4bb24f2aeb": {
+      "first_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "office": "Centro Auxiliar Minas de Corrales - 12 de Octubre s/n entre 18 de Julio y 25 de Agosto Minas de Corrales - Rivera",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Viernes 21 de agosto - 09:30 h"
+    },
     "321a96af1d20df8b67aff8aa": {
       "first_seen_utc": "2026-08-07T18:08:36.587259+00:00",
       "last_seen_utc": "2026-08-07T22:13:51.831241+00:00",
@@ -1251,7 +1275,7 @@
     },
     "38e7f09b1da2b24ef8d392d4": {
       "first_seen_utc": "2026-08-10T23:14:40.890761+00:00",
-      "last_seen_utc": "2026-08-11T11:14:36.507828+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
       "office": "Policlínica Barrio Artigas - Grito De Asencio s/n entre Cnel. Lucas Piriz y Larrañaga Paysandú - Paysandú",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -1491,7 +1515,7 @@
     },
     "3f72a0b5e119c4e33ec45153": {
       "first_seen_utc": "2026-08-11T11:14:36.507828+00:00",
-      "last_seen_utc": "2026-08-11T11:14:36.507828+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
       "office": "Policlínica Quebracho - Dr. Martini s/n entre Sarandí y 8 de Octubre Quebracho - Paysandú",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -1667,7 +1691,7 @@
     },
     "47124c99fdb5819e28ef23a8": {
       "first_seen_utc": "2026-08-05T23:03:16.594711+00:00",
-      "last_seen_utc": "2026-08-05T23:03:16.594711+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
       "office": "UBA 3 - ASSE - Lorenzo Latorre s/n Salto - Salto",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -1785,6 +1809,14 @@
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
       "when": "Lunes 17 de agosto - 15:30 h"
     },
+    "49fd43fe6e7f6f03878e24f7": {
+      "first_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "office": "Policlínica Barrio Artigas - Grito De Asencio s/n entre Cnel. Lucas Piriz y Larrañaga Paysandú - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Lunes 24 de agosto - 10:00 h"
+    },
     "4a1feee04d5f358737b238a0": {
       "first_seen_utc": "2026-08-07T01:49:49.710584+00:00",
       "last_seen_utc": "2026-08-07T01:49:49.710584+00:00",
@@ -1808,6 +1840,14 @@
       "region": "Oeste",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=2&e=52",
       "when": "Miércoles 12 de agosto - 09:45 h"
+    },
+    "4b060235f794932e13c94485": {
+      "first_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "office": "Centro Aux. San Gregorio de Polanco - Yamandu Gamba N 49 esq. Independencia (Centro de Salud) San Gregorio - Tacuarembó",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Lunes 24 de agosto - 09:00 h"
     },
     "4be426ad92e3f49516ca0eae": {
       "first_seen_utc": "2026-08-06T16:02:57.723651+00:00",
@@ -1995,7 +2035,7 @@
     },
     "510fb38c3e285df784033da7": {
       "first_seen_utc": "2026-08-07T18:08:36.587259+00:00",
-      "last_seen_utc": "2026-08-11T11:14:36.507828+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
       "office": "Centro Aux. San Gregorio de Polanco - Yamandu Gamba N 49 esq. Independencia (Centro de Salud) San Gregorio - Tacuarembó",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -2043,7 +2083,7 @@
     },
     "53ca704c9c67aabb7599f63c": {
       "first_seen_utc": "2026-08-11T04:11:52.439555+00:00",
-      "last_seen_utc": "2026-08-11T11:14:36.507828+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
       "office": "Centro Aux. San Gregorio de Polanco - Yamandu Gamba N 49 esq. Independencia (Centro de Salud) San Gregorio - Tacuarembó",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -2179,7 +2219,7 @@
     },
     "597601dac6382fd4621cc00c": {
       "first_seen_utc": "2026-08-10T23:14:40.890761+00:00",
-      "last_seen_utc": "2026-08-11T11:14:36.507828+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
       "office": "Intendencia de Paysandú - Zorrilla De San Martin 819 entre Sarandí y Ituzaingo Paysandú - Paysandú",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -2289,6 +2329,14 @@
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
       "when": "Viernes 21 de agosto - 13:30 h"
     },
+    "5d82ca98dc3252ab53fbe98b": {
+      "first_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "office": "UBA 1 - ASSE - Lavalleja s/n esquina Patule Salto - Salto",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Miércoles 19 de agosto - 14:30 h"
+    },
     "5e4064a034aefbbe697557b8": {
       "first_seen_utc": "2026-08-11T04:11:52.439555+00:00",
       "last_seen_utc": "2026-08-11T11:14:36.507828+00:00",
@@ -2344,6 +2392,14 @@
       "region": "Sur",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=4&e=52",
       "when": "Lunes 31 de agosto - 10:00 h"
+    },
+    "5f198d20edfa05eea26910ee": {
+      "first_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "office": "CAMDEL Zapican - 25 de agosto s/n Zapican - Lavalleja",
+      "region": "Este",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
+      "when": "Jueves 27 de agosto - 08:00 h"
     },
     "5f46418811abe0c3a77577ae": {
       "first_seen_utc": "2026-08-06T16:02:57.723651+00:00",
@@ -2416,6 +2472,14 @@
       "region": "Este",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
       "when": "Miércoles 26 de agosto - 10:00 h"
+    },
+    "6437a83f7953405f226bbe1e": {
+      "first_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "office": "CAMDEL Zapican - 25 de agosto s/n Zapican - Lavalleja",
+      "region": "Este",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
+      "when": "Miércoles 26 de agosto - 08:00 h"
     },
     "6455e97b5aeb27477af85900": {
       "first_seen_utc": "2026-08-07T20:13:49.920965+00:00",
@@ -3163,7 +3227,7 @@
     },
     "802bc5896f766f48652170f2": {
       "first_seen_utc": "2026-08-10T18:42:29.656215+00:00",
-      "last_seen_utc": "2026-08-11T11:14:36.507828+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
       "office": "Centro Auxiliar Minas de Corrales - 12 de Octubre s/n entre 18 de Julio y 25 de Agosto Minas de Corrales - Rivera",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -3211,7 +3275,7 @@
     },
     "811d4e332d2618492104f12f": {
       "first_seen_utc": "2026-08-10T15:50:25.181526+00:00",
-      "last_seen_utc": "2026-08-11T11:14:36.507828+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
       "office": "COMTA Paso de los Toros - Br. Artigas 357 entre Artemio Correa y Atanasio Sierra Paso de los Toros - Tacuarembó",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -3224,6 +3288,14 @@
       "region": "Este",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
       "when": "Lunes 31 de agosto - 09:00 h"
+    },
+    "821a0886793b4d285b61279b": {
+      "first_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "office": "Centro de Salud ASSE Dr. Jose Royol - Av. Libano s/n entre Taboba y Carambula Rivera - Rivera",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Miércoles 19 de agosto - 15:30 h"
     },
     "823d1f117ee5bfe011fca46c": {
       "first_seen_utc": "2026-08-07T15:18:04.052257+00:00",
@@ -3459,7 +3531,7 @@
     },
     "8a39ab08a2446508b196d28a": {
       "first_seen_utc": "2026-08-09T04:53:52.358931+00:00",
-      "last_seen_utc": "2026-08-11T11:14:36.507828+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
       "office": "Centro Auxiliar Minas de Corrales - 12 de Octubre s/n entre 18 de Julio y 25 de Agosto Minas de Corrales - Rivera",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -3649,6 +3721,14 @@
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
       "when": "Jueves 13 de agosto - 08:00 h"
     },
+    "912cbc9cde367b533b547b10": {
+      "first_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "office": "SERVIMED Paysandú - Soriano 1192 esq. Zorilla Paysandú - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Lunes 24 de agosto - 10:00 h"
+    },
     "9140db5b41857d296e76513a": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
       "last_seen_utc": "2026-08-05T21:10:57.385074+00:00",
@@ -3795,7 +3875,7 @@
     },
     "96a8e9ffebea112c575db481": {
       "first_seen_utc": "2026-08-05T23:03:16.594711+00:00",
-      "last_seen_utc": "2026-08-05T23:03:16.594711+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
       "office": "UBA 1 - ASSE - Lavalleja s/n esquina Patule Salto - Salto",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -3843,7 +3923,7 @@
     },
     "994c13cad0fe3930fa99ee00": {
       "first_seen_utc": "2026-08-10T21:16:22.050709+00:00",
-      "last_seen_utc": "2026-08-11T11:14:36.507828+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
       "office": "COMTA Paso de los Toros - Br. Artigas 357 entre Artemio Correa y Atanasio Sierra Paso de los Toros - Tacuarembó",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -3851,7 +3931,7 @@
     },
     "99992ecdd9f686ca2e6c8e22": {
       "first_seen_utc": "2026-08-10T23:14:40.890761+00:00",
-      "last_seen_utc": "2026-08-11T11:14:36.507828+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
       "office": "Policlínica Quebracho - Dr. Martini s/n entre Sarandí y 8 de Octubre Quebracho - Paysandú",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -3904,6 +3984,14 @@
       "region": "Este",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
       "when": "Viernes 14 de agosto - 08:00 h"
+    },
+    "9ce2e6439b63584791272a3a": {
+      "first_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "office": "UBA 3 - ASSE - Lorenzo Latorre s/n Salto - Salto",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Miércoles 19 de agosto - 13:30 h"
     },
     "9d0cf30d92d36b56bda31869": {
       "first_seen_utc": "2026-08-10T05:14:15.920529+00:00",
@@ -4187,7 +4275,7 @@
     },
     "a79aa4f420a55f4439906ed8": {
       "first_seen_utc": "2026-08-10T23:14:40.890761+00:00",
-      "last_seen_utc": "2026-08-11T11:14:36.507828+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
       "office": "SERVIMED Paysandú - Soriano 1192 esq. Zorilla Paysandú - Paysandú",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -4240,6 +4328,14 @@
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
       "when": "Lunes 31 de agosto - 12:30 h"
+    },
+    "aa1e82e1cca2d5061952074c": {
+      "first_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "office": "Sub C.P. Sarandí Grande - Pasteur 1052 Esq. Treinta y Tres y Faustino Harrison Sarandí Grande - Florida",
+      "region": "Oeste",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=2&e=52",
+      "when": "Miércoles 26 de agosto - 08:45 h"
     },
     "aa5780b50e06343af8b1e092": {
       "first_seen_utc": "2026-08-04T23:25:28.928041+00:00",
@@ -4456,6 +4552,14 @@
       "region": "Oeste",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=2&e=52",
       "when": "Martes 18 de agosto - 10:30 h"
+    },
+    "b1cf42bcf9af2378455e6f25": {
+      "first_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "office": "Centro de Salud ASSE Dr. Jose Royol - Av. Libano s/n entre Taboba y Carambula Rivera - Rivera",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Miércoles 19 de agosto - 14:30 h"
     },
     "b20104b05f35eda84482dc70": {
       "first_seen_utc": "2026-08-05T20:46:06.739042+00:00",
@@ -4865,6 +4969,14 @@
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
       "when": "Viernes 21 de agosto - 08:00 h"
     },
+    "c7e9289bc1cf1ca0372423fb": {
+      "first_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "office": "Policlínica Barrio Artigas - Grito De Asencio s/n entre Cnel. Lucas Piriz y Larrañaga Paysandú - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Lunes 24 de agosto - 09:30 h"
+    },
     "c92f5f9e6a9141924a177e3e": {
       "first_seen_utc": "2026-08-05T23:47:29.818167+00:00",
       "last_seen_utc": "2026-08-05T23:47:29.818167+00:00",
@@ -4904,6 +5016,14 @@
       "region": "Este",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
       "when": "Lunes 31 de agosto - 10:30 h"
+    },
+    "cb02e681d5da55a8bb455a1a": {
+      "first_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "office": "CAMDEL Zapican - 25 de agosto s/n Zapican - Lavalleja",
+      "region": "Este",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=3&e=52",
+      "when": "Miércoles 26 de agosto - 12:00 h"
     },
     "cbe441c387d87a0764dd98e0": {
       "first_seen_utc": "2026-08-07T06:06:22.923027+00:00",
@@ -4992,6 +5112,14 @@
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
       "when": "Lunes 10 de agosto - 08:00 h"
+    },
+    "ce314dabcf7185bce4d6c3f5": {
+      "first_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "office": "Intendencia de Paysandú - Zorrilla De San Martin 819 entre Sarandí y Ituzaingo Paysandú - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Jueves 20 de agosto - 10:00 h"
     },
     "ce407bbbf2810efff6aa404a": {
       "first_seen_utc": "2026-08-08T22:05:55.386654+00:00",
@@ -5449,6 +5577,14 @@
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=2&e=52",
       "when": "Miércoles 12 de agosto - 09:45 h"
     },
+    "e358da75fc210567f15e2796": {
+      "first_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "office": "UBA 1 - ASSE - Lavalleja s/n esquina Patule Salto - Salto",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Miércoles 19 de agosto - 13:30 h"
+    },
     "e376bf27e68ea261fd70caed": {
       "first_seen_utc": "2026-08-05T23:47:29.818167+00:00",
       "last_seen_utc": "2026-08-05T23:47:29.818167+00:00",
@@ -5569,6 +5705,14 @@
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
       "when": "Jueves 27 de agosto - 13:30 h"
     },
+    "eae8062420037da932cf95a9": {
+      "first_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
+      "office": "SERVIMED Paysandú - Soriano 1192 esq. Zorilla Paysandú - Paysandú",
+      "region": "Norte",
+      "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
+      "when": "Lunes 24 de agosto - 09:30 h"
+    },
     "eb0a0fe5b5b01be210fc343f": {
       "first_seen_utc": "2026-08-07T20:13:49.920965+00:00",
       "last_seen_utc": "2026-08-07T20:13:49.920965+00:00",
@@ -5603,7 +5747,7 @@
     },
     "ebc16a9d538e215cc761bdca": {
       "first_seen_utc": "2026-08-11T04:11:52.439555+00:00",
-      "last_seen_utc": "2026-08-11T11:14:36.507828+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
       "office": "Intendencia de Paysandú - Zorrilla De San Martin 819 entre Sarandí y Ituzaingo Paysandú - Paysandú",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
@@ -5843,7 +5987,7 @@
     },
     "f9fd6f9177bf53d29e29be91": {
       "first_seen_utc": "2026-08-10T21:16:22.050709+00:00",
-      "last_seen_utc": "2026-08-11T11:14:36.507828+00:00",
+      "last_seen_utc": "2026-08-11T14:50:36.038170+00:00",
       "office": "Policlínica Quebracho - Dr. Martini s/n entre Sarandí y 8 de Octubre Quebracho - Paysandú",
       "region": "Norte",
       "url": "https://sae.msp.gub.uy/sae/agendarReserva/Paso1.xhtml?a=1&e=52",
